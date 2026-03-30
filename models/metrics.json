@@ -1,0 +1,35 @@
+{
+  "test_auc": 0.9899,
+  "test_acc": 0.9447,
+  "cnn_best_val_acc": 0.8566,
+  "fusion_best_val_auc": 0.9863,
+  "window": 5,
+  "lifestyle_cols": [
+    "sleep_score",
+    "sugar_intake",
+    "dairy_intake",
+    "stress_level",
+    "water_intake",
+    "exercise",
+    "skincare_done"
+  ],
+  "weather_cols": [
+    "temp_c",
+    "humidity_pct",
+    "precipitation",
+    "wind_speed"
+  ],
+  "all_features": [
+    "sleep_score",
+    "sugar_intake",
+    "dairy_intake",
+    "stress_level",
+    "water_intake",
+    "exercise",
+    "skincare_done",
+    "temp_c",
+    "humidity_pct",
+    "precipitation",
+    "wind_speed"
+  ]
+}
